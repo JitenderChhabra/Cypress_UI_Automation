@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "checkJs": true,
+    "baseUrl": ".",
+    "paths": {
+      "cypress/*": ["./cypress/*"]
+    },
+    "types": ["cypress"]
+  },
+  "include": ["./cypress/**/*.js"]
+}
+
