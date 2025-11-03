@@ -5,12 +5,19 @@ A robust end-to-end automation framework built with Cypress using Page Object Mo
 🚀 Features
 
 Cypress with JavaScript
+
 Page Object Model (POM) design pattern
+
 Reusable custom commands & utilities
+
 Environment & config-driven execution
+
 API + UI test automation support
+
 Detailed HTML reporting
+
 Screenshots & video recording for failures
+
 CI/CD ready (Jenkins/GitHub Actions/Azure DevOps)
 
 🏗️ Installation
