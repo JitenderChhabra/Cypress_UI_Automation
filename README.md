@@ -26,6 +26,7 @@ npm install
 ▶️ Run Tests
 
 Run UI Tests
+
 npx cypress open
 
 Headless Execution
@@ -34,6 +35,7 @@ npx cypress run
 🧾 Reporting
 
 Mochawesome / Allure integrated
+
 Screenshots & videos auto‑generated on failure
 
 Generate Report (if using Mochawesome)
@@ -48,9 +50,13 @@ npx cypress run --env environment=qa
 🔐 CI/CD Integration
 
 Framework supports pipelines in:
+
 Jenkins
+
 GitHub Actions
+
 GitLab CI
+
 Azure DevOps
 
 Sample command for CI:
